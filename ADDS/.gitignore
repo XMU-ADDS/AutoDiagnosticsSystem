@@ -1,6 +1,15 @@
 #jdbc properties
 src/main/resources/jdbc.properties
 
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 # Built application files and Maven
 target/
 pom.xml.tag
